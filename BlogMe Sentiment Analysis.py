@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  4 15:04:59 2023
-
-@author: User-02
-"""
-
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
